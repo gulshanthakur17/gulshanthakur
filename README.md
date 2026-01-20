@@ -28,7 +28,6 @@ Full-featured social media API with nested comments and AWS S3 integration
 ### 🏆 Achievements
 - 🥈 GeeksforGeeks Institute Rank 2 (500+ students)
 - 🏅 LeetCode Contest Rankings: 770/21K, 307/20K (Top 1-3%)
-- 🎖️ Smart India Hackathon Winner 2022
 
 ### 📫 Let's Connect
 - Email: gulshanthakur205@gmail.com
